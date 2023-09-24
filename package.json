@@ -1,5 +1,5 @@
 {
-  "name": "wikijs",
+  "name": "d-wiki",
   "version": "0.0.1",
   "description": "A JavaScript wrapper for the wikipedia apis",
   "main": "dist",
