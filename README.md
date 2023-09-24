@@ -3,7 +3,7 @@
 
 ```javascript
 
-const wiki = require("wiku");
+const wiki = require("wiki");
 (async () => {
   try {
     await wiki.setLang("zh");
